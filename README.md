@@ -4,11 +4,11 @@ Este projeto consiste em um dispositivo IoT projetado para auxiliar pessoas com 
 
 ## Fluxograma do sistema
 
-![Image](https://github.com/user-attachments/assets/7174a5f9-79c4-45d4-bb3c-e7d68bf4265e)
+![Image](https://github.com/user-attachments/assets/603d02f1-1290-4f89-9ff3-e03fddea80c6)
 
 ## Diagrama de aplicação
 
-![Image](https://github.com/user-attachments/assets/29e507a8-1639-45e9-9be8-dff97a1747ae)
+![Image](https://github.com/user-attachments/assets/ff59b06b-c49a-40a7-8c93-d302f6964785)
 
 ## Tecnologias Utilizadas
 
